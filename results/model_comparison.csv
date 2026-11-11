@@ -1,0 +1,5 @@
+model,test_late_rate,roc_auc,pr_auc,top10_flagged,top10_precision,top10_recall,note
+Rule: cross-state + shortest promise,0.0442,0.5919,0.0608,3215,0.0706,0.1597,
+Logistic Regression,0.0442,0.6961,0.0942,3215,0.1076,0.2435,
+XGBoost,0.0442,0.7176,0.1186,3215,0.1291,0.292,
+"XGBoost, random split (leaky, for contrast)",0.0679,0.7848,0.2595,2887,0.2691,0.3966,not a valid estimate

@@ -1,0 +1,7 @@
+{
+  "split_date": "2018-04-01",
+  "train_orders": 64053,
+  "test_orders": 32150,
+  "train_late_rate": 0.0798,
+  "test_late_rate": 0.0442
+}

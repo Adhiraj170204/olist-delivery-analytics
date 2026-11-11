@@ -1,0 +1,11 @@
+,gain_share
+cat__customer_state_SP,0.113
+cat__customer_state_RJ,0.062
+num__purchase_month,0.043
+num__cross_state,0.031
+cat__customer_state_MG,0.024
+cat__seller_state_SP,0.02
+num__promised_days,0.018
+num__distance_km,0.018
+num__total_freight,0.016
+num__n_sellers,0.015
