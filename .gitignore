@@ -3,3 +3,6 @@ olist.db
 __pycache__/
 .ipynb_checkpoints/
 .venv/
+*.db-journal
+.env
+.DS_Store
